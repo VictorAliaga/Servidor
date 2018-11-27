@@ -25,7 +25,7 @@ SECRET_KEY = '91c!ta9g()v&b$!@566g4@7!5oflmi2qm8_kat41httt-$+e3!'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['victoraliaga.pythonanywhere.com']
 
 
 # Application definition
