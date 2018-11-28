@@ -127,7 +127,7 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'static')
 # AUTORIZAMOS LA ENTRADA
 
 CORS_ORIGIN_REGEX_WHITELIST = (
-    'http://127.0.0.1:8887'
+    'http://victoraliaga.github.io'
 )
 
 
